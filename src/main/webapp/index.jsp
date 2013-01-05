@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>VRaptor Scaffold Project</title>
+	<title>CorreiosAPIServer - RESTful & JSON</title>
 </head>
 <body>
     <h3>CorreiosAPIServer - RESTful & JSON</h3>
