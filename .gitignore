@@ -1,1 +1,4 @@
-/CorreiosAPIServer/target/
+target
+build
+classes
+tmp
